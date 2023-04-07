@@ -7,7 +7,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://wakatime.com/@b27b6ed1-d24a-409c-9014-acd2357e6739"><img src="https://wakatime.com/badge/user/b27b6ed1-d24a-409c-9014-acd2357e6739.svg" alt="Total time coded since Jan 27 2023" /></a>
-
+<img src="https://wakatime.com/share/@DarkoSever/bd18e2fa-7f79-44d9-8bdb-d8646624940a.svg">
 
 ### Skills
 
