@@ -4,7 +4,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * 🌍 I'm currently based in Croatia, Zagreb
 * 🔭 I’m currently working on **Game Developement**
 * 🌱 I’m currently learning **Unity**
-* 🖥️ See my website(2022) at [Website](http://darkolas091.github.io/Portfolio-Website/)
+* 🖥️ Visit my website(2022) at [Website](http://darkolas091.github.io/Portfolio-Website/)
 * 🧠 I love learning new things
 * 🤝 I'm open to collaborating on interesting projects
 
