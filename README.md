@@ -1,7 +1,7 @@
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Darko
 =============================================================================================================================
 
-* 🌍 I'm currently based in Croatia, Zagreb
+* 🌍 I'm currently based in Croatia, Novska/Zagreb
 * 🔭 I’m currently spending time on **Game Developement**
 * 🌱 I’m currently learning **Unity**<!---* 🖥️ Visit my website at [Link](http://darkolas091.github.io/Portfolio-Website/)-->
 * 🧠 I love learning new things
